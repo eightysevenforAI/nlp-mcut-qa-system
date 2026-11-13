@@ -54,3 +54,6 @@ data/processed/**/*.json
 # Always track .keep files to preserve directory structures
 !data/interim/**/.keep
 !data/processed/**/.keep
+# Week 10：模型與向量檔不上傳
+models/
+data/embeddings/
